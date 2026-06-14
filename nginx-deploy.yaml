@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: devsjlee/nginxweb:v1.0
+        image: devsjlee/nginxweb:v2.0
         ports:
         - containerPort: 80
         resources:
